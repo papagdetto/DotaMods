@@ -1,7 +1,9 @@
-"Керри пак": {
-    "type": "category",
-    "submods": {
-        "Керри пак С эффектами": "https://www.dropbox.com/scl/fi/bax2sdaua9es2zomy8b48/.zip?rlkey=avrf56pam6tnn3alke92wi0yq&st=s5t8f2gx&dl=1",
-        "Керии пак БЕЗ эффектов": "https://www.dropbox.com/scl/fi/vm814rb69xzon5kd7c6tb/.zip?rlkey=3jj6vm90hn6ikgqrbe6c9rfpg&st=fm444g40&dl=1"
+{
+    "Керри пак": {
+        "type": "category",
+        "submods": {
+            "Керри пак С эффектами": "https://www.dropbox.com/scl/fi/bax2sdaua9es2zomy8b48/.zip?rlkey=avrf56pam6tnn3alke92wi0yq&st=s5t8f2gx&dl=1",
+            "Керри пак БЕЗ эффектов": "https://www.dropbox.com/scl/fi/vm814rb69xzon5kd7c6tb/.zip?rlkey=3jj6vm90hn6ikgqrbe6c9rfpg&st=fm444g40&dl=1"
+        }
     }
 }
