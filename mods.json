@@ -24,5 +24,18 @@
                 "images_url": "https://www.dropbox.com/scl/fi/42hu4i5q89qytsv2ae9d1/images.zip?rlkey=szpmg7pcxsp9v4q4hva4e7rvw&st=i9pzc2x2&dl=1"
             }
         }
+    },
+        "Доп пак": {
+        "type": "category",
+        "submods": {
+            "Мид пак С эффектами": {
+                "url": "https://www.dropbox.com/scl/fi/rdzifdjv5sdgnoqf6z1jp/.zip?rlkey=dbjhl5140rdi2d68ar7tno1ws&st=2tkyqiam&dl=1",
+                "images_url": "https://www.dropbox.com/scl/fi/42hu4i5q89qytsv2ae9d1/images.zip?rlkey=szpmg7pcxsp9v4q4hva4e7rvw&st=i9pzc2x2&dl=1"
+            },
+            "Мид пак БЕЗ эффектов": {
+                "url": "https://www.dropbox.com/scl/fi/ta7no57zd88o55ffttzn2/.zip?rlkey=dbwxhz8pxv5rirrvk3x033s8z&st=ko1q5fd5&dl=1",
+                "images_url": "https://www.dropbox.com/scl/fi/42hu4i5q89qytsv2ae9d1/images.zip?rlkey=szpmg7pcxsp9v4q4hva4e7rvw&st=i9pzc2x2&dl=1"
+            }
+        }
     }
 }
